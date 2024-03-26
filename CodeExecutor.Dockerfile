@@ -1,3 +1,2 @@
-FROM tryretool/code-executor-service:X.Y.Z
-
+FROM tryretool/code-executor-service:latest
 CMD bash start.sh
